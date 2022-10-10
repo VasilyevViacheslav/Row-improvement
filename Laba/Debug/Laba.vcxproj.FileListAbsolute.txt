@@ -1,0 +1,2 @@
+C:\Users\laris\source\repos\Laba\Debug\Laba.exe.lastcodeanalysissucceeded
+C:\Users\laris\source\repos\Laba\Laba\Debug\NativeCodeAnalysis.read.1.tlog
